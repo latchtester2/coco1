@@ -1,3 +1,6 @@
+test
 *.gcno
-*.gcda 
+*.gcda
 *.gcov
+*.profdata
+*.profraw
