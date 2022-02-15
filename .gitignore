@@ -4,3 +4,4 @@ test
 *.gcov
 *.profdata
 *.profraw
+codecov
