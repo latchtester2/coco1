@@ -13,3 +13,7 @@ int f2() {
   return ++a;
 }
 
+int f3() {
+  int a = 2;
+  return a--;
+}
